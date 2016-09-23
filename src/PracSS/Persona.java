@@ -7,7 +7,7 @@ public class Persona {
     private String Apellidos;
     private int Edad;
     private double salario;
-//fghggfhg
+
 
     public Persona(String DNI, String numSeguridadSocial, String nombre, String apellidos, int edad, double salario) {
         this.DNI = DNI;
